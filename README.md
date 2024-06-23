@@ -1,1 +1,2 @@
-Projekat iz Operativnih sistema 1, 22/23.
+Projekat iz Operativnih sistema 1. 
+2022/2023
